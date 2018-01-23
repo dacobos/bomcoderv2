@@ -1,6 +1,6 @@
 ################################  MODULE  INFO  ################################
 # Author: David  Cobos
-# Cisco Systems Solutions Integrations Architect
+# Cisco Solutions Integrations Architect
 # Mail: cdcobos1999@gmail.com  / dacobos@cisco.com
 ################################  MODULE  INFO  ################################
 
